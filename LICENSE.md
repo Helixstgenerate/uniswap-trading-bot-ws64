@@ -1,4 +1,4 @@
-# 
+# Get the ultimate uniswap trading bot with new uniswap trading bot Plugin | slippage-control + front-running-detection. Featuring slippage-control and front-running-detection, it's
 
 
 
